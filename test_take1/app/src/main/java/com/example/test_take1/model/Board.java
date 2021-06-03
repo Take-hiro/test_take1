@@ -35,7 +35,7 @@ public class Board {
 
     public void setSize(int width, int height) {
         int sz = width < height ? width : height;
-        
+
         setWidth(sz);
         setHeight(sz);
     }
