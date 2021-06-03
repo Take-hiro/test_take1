@@ -1,0 +1,4 @@
+#Tue May 04 21:10:51 JST 2021
+base.0=C\:\\Users\\hiroki\\Documents\\GitHub\\othello\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

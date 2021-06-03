@@ -1,0 +1,2 @@
+com/example/othello_kari/BuildConfig.java
+ com.example.othello_kari.BuildConfig
