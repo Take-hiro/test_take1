@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/othello_kari.iml" filepath="$PROJECT_DIR$/.idea/modules/othello_kari.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/othello_kari.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/othello_kari.app.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/othello.iml" filepath="$PROJECT_DIR$/.idea/modules/othello.iml" />
+>>>>>>> dc7940feda12d16529f32507c7fd6415ca9fd276
     </modules>
   </component>
 </project>

@@ -1,7 +1,0 @@
-gitupload test
-
-edited
-
-AAA
-
-CCC

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+>>>>>>> dc7940feda12d16529f32507c7fd6415ca9fd276
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -22,15 +27,79 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="943323bb-d49f-4387-9cb7-fd1c6c87fa8a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+=======
+    <list default="true" id="727556a3-1afa-414d-9dbf-8f04eabcd740" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/othello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/androidTest/java/com/example/test_take1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/java/com/example/test_take1/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/app/src/test/java/com/example/test_take1/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_take1/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Upload_test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/download_test.txt" beforeDir="false" />
+>>>>>>> dc7940feda12d16529f32507c7fd6415ca9fd276
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+=======
+>>>>>>> dc7940feda12d16529f32507c7fd6415ca9fd276
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -39,14 +108,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1s4Nt0yiNXU3GE6U3CEjALVzlnd" />
+=======
+  <component name="ProjectId" id="1sF0szn4ynqpvwz5EtKRbLeR2f7" />
+>>>>>>> dc7940feda12d16529f32507c7fd6415ca9fd276
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+<<<<<<< HEAD
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+=======
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+>>>>>>> dc7940feda12d16529f32507c7fd6415ca9fd276
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -56,6 +133,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="othello_kari.app" />
       <option name="DEPLOY" value="true" />
@@ -124,6 +202,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620128114302</updated>
+=======
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="727556a3-1afa-414d-9dbf-8f04eabcd740" name="Default Changelist" comment="" />
+      <created>1620453241210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620453241210</updated>
+>>>>>>> dc7940feda12d16529f32507c7fd6415ca9fd276
     </task>
     <servers />
   </component>
@@ -137,6 +226,7 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -144,5 +234,13 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="110" y="120" width="1060" height="440" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1620129862201" />
+=======
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="922" y="183" key="FileChooserDialogImpl" timestamp="1620453342495">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="922" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1620453342495" />
+>>>>>>> dc7940feda12d16529f32507c7fd6415ca9fd276
   </component>
 </project>
