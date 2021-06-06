@@ -13,17 +13,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(new ReversiView(this));
 
     }
-
-/*    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-       super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-    }*/
 }
-/*
-public class GameActivity extends Activity{
-
-
-}
-
- */
